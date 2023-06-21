@@ -1,0 +1,8 @@
+# Ignore artifacts:
+public
+esm
+cjs
+mp
+coverage
+packages/common/lib
+templates/*.html
